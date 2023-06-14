@@ -2,6 +2,8 @@
 
 ## Link de Youtube
 
+* [Video](https://youtu.be/8aX8gWj9wno)
+
 ## Notebooks
 * [01_Exploración_de_datos.ipynb](https://githubtocolab.com/Diego99021999/Proyecto_Deep_Learning_Diego_Lopez/blob/main/01_Exploraci%C3%B3n_de_datos.ipynb) 
 * [02_Arquitecturas_individuales_CNN.ipynb](https://githubtocolab.com/Diego99021999/Proyecto_Deep_Learning_Diego_Lopez/blob/main/02_Arquitecturas_individuales_CNN.ipynb) 
